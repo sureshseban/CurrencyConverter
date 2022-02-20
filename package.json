@@ -1,0 +1,16 @@
+{
+  "name": "currency-converter-eur",
+  "version": "1.0.0",
+  "description": "Convert any currency form EUR",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Suresh Vegapatta <sureshv.gknair@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
